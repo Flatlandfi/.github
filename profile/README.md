@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://flatlandfi.com/brand/mcp-icon-256.png" width="72" alt="Flatland" /><br /><br />
+  <img src="https://flatlandfi.com/apple-touch-icon.png" width="72" alt="Flatland" /><br /><br />
   <strong>Financial reasoning infrastructure for AI agents.</strong>
 </div>
 
