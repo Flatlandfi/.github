@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://flatlandfi.com/apple-touch-icon.png" width="72" alt="Flatland" /><br /><br />
-  <strong>Financial reasoning infrastructure for AI agents.</strong>
-</div>
+![Flatland — Financial reasoning infrastructure for AI agents](github-social-preview.png)
 
 ---
 
