@@ -1,11 +1,11 @@
 # flatland
 
-Build financial models with AI. See what drives them. Deliver Excel.
+Make the world's systems visible, so we see the consequences before we cause them.
 
-AI writes the model. flatland runs the math.
+flatland desk lets you see inside a model and play out its futures.
 
-- [Explore flatland desk](https://flatlandfi.com)
+- [Explore flatland](https://flatlandfi.com)
 - [Download](https://flatlandfi.com/download)
-- [Connect through MCP](https://github.com/Flatlandfi/flatland-mcp)
+- [Connect your agent](https://github.com/Flatlandfi/flatland-mcp)
 
-From Flatland Labs. [Contact us](mailto:info@flatlandfi.com).
+[Contact](mailto:info@flatlandfi.com).
